@@ -3,7 +3,7 @@
 // alert( 3 + 3) we are using Node.js, not browser.
 
 
-// number => 2 to the power 53
+// number => Maximum Safe Integer limit (2⁵³ - 1, or 9007199254740991)
 // bigint
 // string => ""
 // boolean => true /false
