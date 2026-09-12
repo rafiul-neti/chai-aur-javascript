@@ -25,3 +25,8 @@ console.log(Math.floor(4.9)); //=> 4
 
 // random()
 console.log(Math.random()); //=> always something between 0 and 1
+
+const min = 11
+const max = 20
+
+console.log(Math.floor(Math.random() * (max - min + 1)) + min)
