@@ -22,3 +22,8 @@ console.log({id, anotherId});
 console.log(id === anotherId);
 console.log(id == anotherId);
 
+
+
+//  ++++++++++++++++++++++++++++++++++++
+
+// Two types of memory are: Stack (Primitive), Heap(Non-Primitive/reference)
